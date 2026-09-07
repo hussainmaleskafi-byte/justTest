@@ -1,0 +1,11 @@
+# Ignore all text files
+*.txt
+
+# Ignore log files
+*.log
+
+# Ignore a specific folder
+myFolder/
+
+# Ignore a specific file
+secret.txt
